@@ -5,7 +5,7 @@
 
 # 👋 Quem?
 - Desculpe a bagunça, tô chegando agora e ainda estou arrumando a casa aqui ;)
-- Eu sou o Hugo Bonifácio ( @HugoBoncha ) e estou começando no mundo da ciência de dados. Tenho uma visão analítica que procuro aplicar no meu dia a dia e aos projetos nos quais tenho desenvolvido, aprimorando assim a minha capacidade de manipulação de dados em Python, análise, modelagem, visualização, SQL, preparação e limpeza.
+- Eu sou o Hugo Bonifácio ( @HugoBoncha ) e faço parte do mundo da ciência de dados. Tenho uma visão analítica que procuro aplicar no meu dia a dia e aos projetos nos quais tenho desenvolvido, aprimorando assim a minha capacidade de manipulação de dados em Python, análise, modelagem, visualização, SQL, preparação e limpeza.
 # 👀 Como?
 - Venho das áreas de atendimento ao público, Contabilidade, Controladoria e Finanças. Tive a Oportunidade de participar de um processo seletivo de uma bolsa de estudos na ADA Tech em parceria com o Ifood e a partir daí tive um contato com o mundo das análises de dados, linguagens de programação e ainda relembrei dos conhecimentos estatísticos adquiridos durante a universidade. Foi uma experiência transformadora.
 # 🌱 Meus planos de aprendizado em breve:
